@@ -5,9 +5,7 @@ Hi, I'm **Dharani Dharan**, a data analyst passionate about turning raw data int
 
 - 📧 Email: dharanidharant423@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dharani433)
----🌐 Portfolio
-
-Visit my portfolio website: [dharani-analytics.github.io](https://dharani-analytics.github.io/Dharanidharan.github.io/)
+---🌐 Portfolio: [dharani-analytics.github.io](https://dharani-analytics.github.io/Dharanidharan.github.io/)
 
 ## 💼 Projects
 
