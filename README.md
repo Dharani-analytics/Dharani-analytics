@@ -1,8 +1,13 @@
 # 📊 Dharani Dharan - Data Analyst
 
 Hi, I'm **Dharani Dharan**, a data analyst passionate about turning raw data into impactful insights. I specialize in **SQL**, **Power BI**, and **Excel**, and I enjoy building dashboards and uncovering stories behind the numbers.
+📫 Connect with Me
 
----
+- 📧 Email: dharanidharant423@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dharani433)
+---🌐 Portfolio
+
+Visit my portfolio website: [dharani-analytics.github.io](https://dharani-analytics.github.io/Dharanidharan.github.io/)
 
 ## 💼 Projects
 
@@ -54,12 +59,6 @@ JKKN College of Arts and Science (2021–2024) – CGPA: 6.5
 
 ---
 
-## 🌐 Portfolio
-
-Visit my portfolio website: [dharani-analytics.github.io](https://dharani-analytics.github.io/Dharanidharan.github.io/)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,8 +74,3 @@ Visit my portfolio website: [dharani-analytics.github.io](https://dharani-analyt
 </p>
 
 ---
-
-## 📫 Connect with Me
-
-- 📧 Email: dharanidharant423@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dharani433)
