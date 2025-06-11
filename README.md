@@ -60,9 +60,23 @@ Visit my portfolio website: [dharani-analytics.github.io](https://dharani-analyt
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-analytics&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-analytics&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 Email: dharanidharant423@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dharani433)
-
-
