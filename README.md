@@ -1,6 +1,7 @@
 # 📊 Dharani Dharan - Data Analyst
 
 Hi, I'm **Dharani Dharan**, a data analyst passionate about turning raw data into impactful insights. I specialize in **SQL**, **Power BI**, and **Excel**. I enjoy building dashboards and uncovering stories behind the numbers.
+
 📫 Connect with Me
 - 📧 Email: dharanidharant423@gmail.com  
 - 🔗 LinkedIn:https://www.linkedin.com/in/dharani433
