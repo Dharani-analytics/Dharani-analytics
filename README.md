@@ -7,6 +7,8 @@ Hi, I'm **Dharani Dharan**, a data analyst passionate about turning raw data int
 - 🔗 LinkedIn:https://www.linkedin.com/in/dharani433
 - 🌐 Portfolio: [dharani-analytics.github.io](https://dharani-analytics.github.io/Dharanidharan.github.io/)
 
+---
+
 ## 🛠 Skills
 
 - **Power BI**: DAX, Power Query, Data Modeling, KPI Dashboards  
