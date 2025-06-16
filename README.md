@@ -12,11 +12,11 @@ Hi, I'm **Dharani Dharan**, a data analyst passionate about turning raw data int
 
 ## 🛠 Skills
 
-- **Power BI**: DAX, Power Query, Data Modeling, KPI Dashboards  
-- **SQL**: Joins, CTEs, Subqueries, Optimization  
-- **Excel**: Power Pivot, VBA, Advanced Formulas  
-- **Python (Basics)**: Pandas, NumPy  
-- **Others**: Tableau, GitHub
+- **Power BI** : DAX, Power Query, Data Modeling, KPI Dashboards  
+- **SQL** : Joins, CTEs, Subqueries, Optimization  
+- **Excel** : Power Pivot, VBA, Advanced Formulas  
+- **Python ** : Pandas, NumPy  
+- **Others** : Tableau, GitHub
 
 ---
 
